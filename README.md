@@ -24,3 +24,6 @@ El archivo principal contiene:
 Puedes modificar los valores de los jugadores para probar diferentes escenarios.
 
 ¡Diviértete programando! 🎮✨
+
+
+Cabe mencionar que te dejare un PDF para la ayuda de repasar las distintas funciones y objetos que tiene JavaScript.
